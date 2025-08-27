@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 - 🎮 Passionate about building **immersive games** and **scalable web apps**  
-- 🌱 Currently learning **React.js** **React Native** & **MongoDB**  
+- 🌱 Currently learning **React.js** & **React Native** & **MongoDB**  
 - 🤖 Interested in exploring **AI integration** in both games and web platforms  
 - 🌍 Based in Sri Lanka  
 
