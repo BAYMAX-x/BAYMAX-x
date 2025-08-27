@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 - 🎮 Passionate about building **immersive games** and **scalable web apps**  
-- 🌱 Currently learning **React Native** & **MongoDB**  
+- 🌱 Currently learning **React.js** **React Native** & **MongoDB**  
 - 🤖 Interested in exploring **AI integration** in both games and web platforms  
 - 🌍 Based in Sri Lanka  
 
@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack  
 **Languages:** HTML, CSS, JavaScript, Tailwind CSS, PHP, C++  
-**Frameworks & Libraries:** React.js  
+**Frameworks & Libraries:** React.js, React Native  
 **Databases:** SQL, MySQL, MongoDB  
 **Game Dev:** Unreal Engine (C++ & Blueprints)  
 
