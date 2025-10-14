@@ -27,20 +27,29 @@
 
 <p align="center">
   <!-- 🎨 Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
   <br/>
 
   <!-- ⚙️ Backend -->
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,sqlite&theme=dark" />
   <br/>
 
-  <!-- 🎮 Game Dev -->
+  <!-- 🎮 Game Development -->
   <img src="https://skillicons.dev/icons?i=unreal,cpp,blender,git,github&theme=dark" />
   <br/>
 
-  <!-- 🧠 Tools & Others -->
+  <!-- 🧠 Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=vscode,figma,ai,linux,windows&theme=dark" />
 </p>
+
+<style>
+img[src*="skillicons.dev"] {
+  transition: transform 0.2s ease-in-out;
+}
+img[src*="skillicons.dev"]:hover {
+  transform: scale(1.15);
+}
+</style>
 
 ---
 
@@ -86,3 +95,11 @@
 <p align="center">
   <i>⚡ Always building. Always learning. Always leveling up.</i>
 </p>
+
+---
+
+<!-- 🐍 Animated Contribution Graph -->
+![snake gif](https://github.com/baymax-x/baymax-x/blob/output/github-contribution-grid-snake.svg)
+
+<!-- 📈 Optional Activity Graph -->
+[![Theekshana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baymax-x&theme=radical)](https://github.com/baymax-x)
