@@ -42,16 +42,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,ai,linux,windows&theme=dark" />
 </p>
 
-<style>
-img[src*="skillicons.dev"] {
-  transition: transform 0.2s ease-in-out;
-}
-img[src*="skillicons.dev"]:hover {
-  transform: scale(1.15);
-}
-</style>
-
----
 
 ## 📊 GitHub Insights
 
