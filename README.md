@@ -53,19 +53,6 @@ img[src*="skillicons.dev"]:hover {
 
 ---
 
-## 🌟 Highlighted Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 📰 **AI News Platform** | Voice-assisted news with AI summarization | React, Web APIs |
-| 🎟 **Event Manager** | Secure event scheduling & ticketing | PHP, MySQL, JS |
-| 🍦 **E-Commerce Shop** | Ice-cream storefront with payment gateway | PHP, JS, MySQL |
-| ⛽ **Fuel Dashboard** | Real-time analytics and monitoring | PHP, JS |
-| 🌍 **Survival Game (WIP)** | Multiplayer, crafting & inventory systems | Unreal C++/BP |
-| 👻 **Horror Prototype** | AI patrol, jumpscare & perception | Unreal Blueprints |
-
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -74,13 +61,6 @@ img[src*="skillicons.dev"]:hover {
   <br/>
   <img src="https://streak-stats.demolab.com?user=baymax-x&theme=radical&hide_border=true" height="165" />
 </div>
-
----
-
-## 🔭 Current Focus
-- 🎯 **Unreal Engine 5 Combat System** with hero switching  
-- 🧩 **Firebase + PHP Backend** for monetization APIs  
-- 🤖 **AI-assisted tools** for level design and balancing  
 
 ---
 
@@ -97,9 +77,3 @@ img[src*="skillicons.dev"]:hover {
 </p>
 
 ---
-
-<!-- 🐍 Animated Contribution Graph -->
-![snake gif](https://github.com/baymax-x/baymax-x/blob/output/github-contribution-grid-snake.svg)
-
-<!-- 📈 Optional Activity Graph -->
-[![Theekshana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baymax-x&theme=radical)](https://github.com/baymax-x)
