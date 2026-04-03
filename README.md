@@ -14,19 +14,6 @@
 
 > **`STATUS [🟢 ONLINE]`** • Directing product vision at **6AM Studio** • Bridging game mechanics with scalable web and mobile infrastructure. 
 
----
-
-### 🚀 ACTIVE VENTURES & BUILDS
-
-As a founder and engineer, my focus is on shipping products that solve real-world problems and deliver high-fidelity experiences.
-
-| 🏥 SLHRoster | 🏠 Bodim App | 🍽️ QR Ordering System |
-| :--- | :--- | :--- |
-| **Healthcare Management** | **PropTech / Navigation** | **Smart Hospitality** |
-| A dedicated duty roster management ecosystem streamlining schedules for Sri Lankan nursing staff. | A specialized platform helping users seamlessly locate apartments and rooms in Anuradhapura. | A scalable, QR-based digital ordering architecture for modern restaurants. |
-| *Flutter • Laravel • API* | *Mobile Dev • UI/UX* | *Full-Stack • System Design* |
-
----
 
 ### 💻 THE TECH MATRIX
 
