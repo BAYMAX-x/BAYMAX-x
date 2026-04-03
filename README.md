@@ -1,9 +1,8 @@
-<!-- ───────────────────────── PROFILE HERO ───────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Theekshana+Harsha;Game+Developer+%7C+Full-Stack+Engineer;Building+Games%2C+Platforms+%26+AI-Powered+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Theekshana+Harsha;Founder+of+6AM+Studio;Game+Developer+%7C+Full-Stack+Engineer;Building+Games%2C+Platforms+%26+AI-Systems" />
 </p>
 
-<h2 align="center">🎮 Game Development · 🌐 Full-Stack Engineering · 🤖 AI Exploration</h2>
+<h3 align="center">🎮 Game Development · 🌐 Full-Stack Engineering · 🤖 AI Solutions</h3>
 
 <p align="center">
   <a href="mailto:thikshanaharsha02@gmail.com">
@@ -22,35 +21,38 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Game Developer and Full-Stack Engineer** focused on building **high-quality interactive experiences**, scalable web platforms, and experimenting with **AI-driven systems**.
+I’m a **Game Developer and Full-Stack Engineer**, and the founder of **6AM Studio**, where I focus on building high-quality interactive experiences and AI-driven software solutions. 
 
-I enjoy working at the intersection of **game logic, backend architecture, and clean UI**, turning complex ideas into polished, usable products.
+With a strong foundation in modern web and mobile development (React, Laravel, Flutter) and game engine programming (Unreal Engine C++), I enjoy bridging the gap between complex backend architecture and clean UI/UX to create polished, usable products.
 
-- 🎮 Unreal Engine developer (C++ & Blueprints)
-- 🌐 Full-stack engineer (modern frontend + scalable backend)
-- 🤖 Exploring AI integration for games & web systems
-- 🌍 Based in **Sri Lanka**, open to global collaboration
-- ⚡ Strong believer in continuous learning and iteration
+- 🏢 **Leading** game development and AI software projects at 6AM Studio.
+- 📱 **Developing** cross-platform applications, including complex management systems like SLHRoster.
+- 🎮 **Building** immersive environments and game logic using Unreal Engine (C++ & Blueprints).
+- 🌍 Based in **Sri Lanka**, open to global collaboration and innovative projects.
 
 ---
 
-## 🧩 Core Skill Set
+## 🛠️ Core Skill Set
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter&theme=dark" alt="Frontend and Mobile Skills"/>
+  </a>
   <br/>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,sqlite&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,sqlite&theme=dark" alt="Backend and Database Skills"/>
+  </a>
   <br/>
 
-  <!-- Game & 3D -->
-  <img src="https://skillicons.dev/icons?i=unreal,cpp,blender&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,cpp,blender&theme=dark" alt="Game Development Skills"/>
+  </a>
   <br/>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,linux,windows&theme=dark" alt="Development Tools"/>
+  </a>
 </p>
 
 ---
@@ -58,10 +60,10 @@ I enjoy working at the intersection of **game logic, backend architecture, and c
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baymax-x&show_icons=true&hide_border=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-x&layout=compact&hide_border=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baymax-x&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-x&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" height="160" alt="Top Languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=baymax-x&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=baymax-x&theme=radical&hide_border=true&background=0D1117" height="160" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -69,11 +71,11 @@ I enjoy working at the intersection of **game logic, backend architecture, and c
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:thikshanaharsha02@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/theekshana-harsha-premasiri-ab29aa2ba/">💼 LinkedIn</a> •
-  <a href="https://baymax-x.github.io/Portfolio/">🌐 Portfolio</a>
+  <i>Building with purpose. Learning without limits.</i>
 </p>
 
 <p align="center">
-  <i>Building with purpose. Learning without limits.</i>
+  <a href="mailto:thikshanaharsha02@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/theekshana-harsha-premasiri-ab29aa2ba/">💼 LinkedIn</a> •
+  <a href="https://baymax-x.github.io/Portfolio/">🌐 Portfolio</a>
 </p>
